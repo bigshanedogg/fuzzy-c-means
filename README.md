@@ -1,4 +1,4 @@
-# python fuzzy-c-means
+# python Fuzzy C-means
 The python implementation of Fuzzy C-means clustering
 The Scikit-learn package has many clustering modules, but only the Fuzzy C-means, and I was curious about the results when using other metrics than Euclidean. So, This implemenation includes Fuzzy C-menas with various distance metric such as Euclidean, Cosine, and Mahalanobis.
 
